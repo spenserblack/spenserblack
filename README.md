@@ -17,3 +17,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My Coding Style
+```javascript
+function greet                                                                 (
+  name                                                                         )
+                                                                               {
+  if                                                                           (
+    name                                                                       )
+                                                                               {
+    console.log                                                                (
+      'Hello,'                                                                 ,
+      name                                                                     )
+                                                                               ;
+                                                                               }
+  else                                                                         {
+    console.log                                                                (
+      'Hello, World!'                                                          )
+                                                                               ;
+                                                                               }
+                                                                               }
+```
