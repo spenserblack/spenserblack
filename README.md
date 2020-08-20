@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# :smiling_imp: My Coding Style
+# :smiling_imp: My Code Style
 
 ```javascript
 function greet                                                                 (
