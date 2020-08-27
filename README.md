@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# :smiling_imp: My Code Style
+# My Code Style
 
 ```javascript
+// JavaScript
 function greet                                                                 (
   name                                                                         )
                                                                                {
@@ -36,4 +37,28 @@ function greet                                                                 (
                                                                                ;
                                                                                }
                                                                                }
+```
+```c
+// C
+
+#include <stdio.h>
+#define aNumberCalled int
+#define shallBeDeclared ()
+#define asFollows {
+#define theProgramShallState printf
+#define theFollowing (
+#define soEndsTheStatement )
+#define thusEndsTheDecree ;
+#define theDeclarationIsFinalizedWith return
+#define thusEndsTheDeclaration }
+
+aNumberCalled main shallBeDeclared
+asFollows
+  theProgramShallState theFollowing
+    "Hello, World!\n"
+  soEndsTheStatement thusEndsTheDecree
+  theDeclarationIsFinalizedWith
+    0
+  thusEndsTheDecree
+thusEndsTheDeclaration
 ```
