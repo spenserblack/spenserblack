@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=spenserblack)](https://github.com/ryo-ma/github-profile-trophy)
 [![spenserblack's github stats](https://github-readme-stats.vercel.app/api?username=spenserblack&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spenserblack&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
