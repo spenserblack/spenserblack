@@ -1,6 +1,8 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=spenserblack)](https://github.com/ryo-ma/github-profile-trophy)
-[![spenserblack's github stats](https://github-readme-stats.vercel.app/api?username=spenserblack&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spenserblack&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spenserblack" alt="trophy"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=spenserblack&theme=gruvbox" height="200" alt="Anurag's github stats"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spenserblack&theme=gruvbox&layout=compact" height="200" alt="Top Langs"/></a>
+</p>
 
 <!--
 **spenserblack/spenserblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
