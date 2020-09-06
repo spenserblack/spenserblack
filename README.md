@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spenserblack" alt="trophy"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spenserblack&theme=gruvbox" alt="trophy"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=spenserblack&theme=gruvbox" height="150" alt="Anurag's github stats"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spenserblack&theme=gruvbox&layout=compact" height="150" alt="Top Langs"/></a>
 </p>
