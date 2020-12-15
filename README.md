@@ -25,6 +25,7 @@
       <td>
         <img width="25" height="40" alt="Nuxt.js" src="https://simpleicons.org/icons/nuxt-dot-js.svg" />
         <img width="25" height="40" alt="Go" src="https://devicon.dev/devicon.git/icons/go/go-original.svg" />
+        <img width="25" height="40" alt="C" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" />
       </td>
     </tr>
   </tbody>
