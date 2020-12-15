@@ -4,9 +4,27 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spenserblack&theme=gruvbox&layout=compact&langs_count=6" height="150" alt="Top Langs"/></a>
 </p>
 
-| Using                                                                 | Learning         |
-| :-------------------------------------------------------------------: | :--------------: |
-| ![Rust] ![JavaScript] ![Node.js] ![Vue.js] ![Python] ![Django] ![Git] | ![Nuxt.js] ![Go] |
+<table>
+  <tr>
+    <th scope="row">Using</th>
+    <td>
+      <img alt="Rust" src="https://simpleicons.org/icons/rust.svg">
+      <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg">
+      <img alt="Node.js" src="https://simpleicons.org/icons/node-dot-js.svg">
+      <img alt="Vue.js" src="https://simpleicons.org/icons/vue-dot-js.svg"> 
+      <img alt="Python" src="https://simpleicons.org/icons/python.svg">
+      <img alt="Django" src="https://simpleicons.org/icons/django.svg">
+      <img alt="Git" src="https://simpleicons.org/icons/git.svg">
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Learning</th>
+    <td>
+      <img alt="Nuxt.js" src="https://simpleicons.org/icons/nuxt-dot-js.svg">
+      <img alt="Go" src="https://simpleicons.org/icons/go.svg">
+    </td>
+  </tr>
+</table>
 
 <!--
 **spenserblack/spenserblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
