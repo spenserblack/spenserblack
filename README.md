@@ -4,7 +4,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spenserblack&theme=gruvbox&layout=compact&langs_count=6" height="150" alt="Top Langs"/></a>
 </p>
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th scope="col">Using</th>
