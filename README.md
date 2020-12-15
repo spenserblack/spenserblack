@@ -4,6 +4,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spenserblack&theme=gruvbox&layout=compact&langs_count=6" height="150" alt="Top Langs"/></a>
 </p>
 
+| Using                                                                 | Learning         |
+| :-------------------------------------------------------------------: | :--------------: |
+| ![Rust] ![JavaScript] ![Node.js] ![Vue.js] ![Python] ![Django] ![Git] | ![Nuxt.js] ![Go] |
+
 <!--
 **spenserblack/spenserblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,3 +45,13 @@ function greet                                                                 (
                                                                                }
                                                                                }
 ```
+
+[Rust]: https://simpleicons.org/icons/rust.svg
+[JavaScript]: https://simpleicons.org/icons/javascript.svg
+[Node.js]: https://simpleicons.org/icons/node-dot-js.svg
+[Vue.js]: https://simpleicons.org/icons/vue-dot-js.svg
+[Nuxt.js]: https://simpleicons.org/icons/nuxt-dot-js.svg
+[Python]: https://simpleicons.org/icons/python.svg
+[Django]: https://simpleicons.org/icons/django.svg
+[Go]: https://simpleicons.org/icons/go.svg
+[Git]: https://simpleicons.org/icons/git.svg
