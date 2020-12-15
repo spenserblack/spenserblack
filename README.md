@@ -4,9 +4,31 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spenserblack&theme=gruvbox&layout=compact&langs_count=6" height="150" alt="Top Langs"/></a>
 </p>
 
-| Using                                                                 | Learning         |
-| :-------------------------------------------------------------------: | :--------------: |
-| ![Rust] ![JavaScript] ![Node.js] ![Vue.js] ![Python] ![Django] ![Git] | ![Nuxt.js] ![Go] |
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Using</th>
+      <th scope="col">Learning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img width="25" height="40" alt="Rust" src="https://devicon.dev/devicon.git/icons/rust/rust-plain.svg" />
+        <img width="25" height="40" alt="JavaScript" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" />
+        <img width="25" height="40" alt="Node.js" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" />
+        <img width="25" height="40" alt="Vue.js" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" />
+        <img width="25" height="40" alt="Python" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" />
+        <img width="25" height="40" alt="Django" src="https://devicon.dev/devicon.git/icons/django/django-original.svg" />
+        <img width="25" height="40" alt="Git" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" />
+      </td>
+      <td>
+        <img width="25" height="40" alt="Nuxt.js" src="https://simpleicons.org/icons/nuxt-dot-js.svg" />
+        <img width="25" height="40" alt="Go" src="https://devicon.dev/devicon.git/icons/go/go-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!--
 **spenserblack/spenserblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,12 +68,12 @@ function greet                                                                 (
                                                                                }
 ```
 
-[Rust]: https://simpleicons.org/icons/rust.svg
-[JavaScript]: https://simpleicons.org/icons/javascript.svg
-[Node.js]: https://simpleicons.org/icons/node-dot-js.svg
-[Vue.js]: https://simpleicons.org/icons/vue-dot-js.svg
+[Rust]: https://devicon.dev/devicon.git/icons/rust/rust-plain.svg
+[JavaScript]: https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg
+[Node.js]: https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg
+[Vue.js]: https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg
 [Nuxt.js]: https://simpleicons.org/icons/nuxt-dot-js.svg
-[Python]: https://simpleicons.org/icons/python.svg
-[Django]: https://simpleicons.org/icons/django.svg
-[Go]: https://simpleicons.org/icons/go.svg
-[Git]: https://simpleicons.org/icons/git.svg
+[Python]: https://devicon.dev/devicon.git/icons/python/python-original.svg
+[Django]: https://devicon.dev/devicon.git/icons/django/django-original.svg
+[Go]: https://devicon.dev/devicon.git/icons/go/go-original.svg
+[Git]: https://devicon.dev/devicon.git/icons/git/git-original.svg
