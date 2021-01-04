@@ -14,18 +14,16 @@
   <tbody>
     <tr>
       <td>
-        <img width="25" height="40" alt="Rust" src="https://devicon.dev/devicon.git/icons/rust/rust-plain.svg" />
-        <img width="25" height="40" alt="JavaScript" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" />
-        <img width="25" height="40" alt="Node.js" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" />
-        <img width="25" height="40" alt="Vue.js" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" />
-        <img width="25" height="40" alt="Python" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" />
-        <img width="25" height="40" alt="Django" src="https://devicon.dev/devicon.git/icons/django/django-original.svg" />
-        <img width="25" height="40" alt="Git" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" />
+        <img width="25" height="40" alt="Rust" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />
+        <img width="25" height="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+        <img width="25" height="40" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+        <img width="25" height="40" alt="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+        <img width="25" height="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+        <img width="25" height="40" alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
       </td>
       <td>
-        <img width="25" height="40" alt="Nuxt.js" src="https://simpleicons.org/icons/nuxt-dot-js.svg" />
-        <img width="25" height="40" alt="Go" src="https://devicon.dev/devicon.git/icons/go/go-original.svg" />
-        <img width="25" height="40" alt="C" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" />
+        <img width="25" height="40" alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+        <img width="25" height="40" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
       </td>
     </tr>
   </tbody>
