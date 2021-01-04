@@ -20,6 +20,7 @@
         <img width="25" height="40" alt="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
         <img width="25" height="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
         <img width="25" height="40" alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
+        <img width="25" height="40" alt="Vim" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />
       </td>
       <td>
         <img width="25" height="40" alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
