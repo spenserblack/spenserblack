@@ -15,6 +15,8 @@ jobs:
         committer_branch: master
         committer_message: Update metrics
         filename: metrics.svg
+        repositories_forks: no
+        repositories_affiliations: owner
         plugin_achievements: yes
         plugin_achievements_threshold: B
         plugin_achievements_secrets: yes
