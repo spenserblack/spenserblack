@@ -20,6 +20,7 @@ jobs:
         plugin_achievements: yes
         plugin_achievements_threshold: B
         plugin_achievements_limit: 0
+        plugin_achievements_ignored: explorer, automater, infographile, member
         plugin_languages: yes
         plugin_languages_details: bytes-size, percentage
 
