@@ -17,6 +17,7 @@ jobs:
         filename: metrics.svg
         repositories_forks: no
         repositories_affiliations: owner
+        plugin_gists: yes
         plugin_reactions: yes
         plugin_reactions_details: percentage
         plugin_achievements: yes
