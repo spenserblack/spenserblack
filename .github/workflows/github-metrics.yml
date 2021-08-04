@@ -1,7 +1,7 @@
 name: GitHub Metrics 
 on:
   schedule:
-    - cron: '59 23 * * *'
+    - cron: '0 0 * * *'
   push:
     branches: [ 'master' ]
   workflow_dispatch:
@@ -10,6 +10,10 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+    - name: Check Month
+      run: echo "::set-output name=MONTH::$(date +'%m')"
+      id: check-month
+    - run: echo "Month is '${{ steps.check-month.outputs.MONTH }}'"
     - uses: lowlighter/metrics@v3.12
       with:
         token: ${{ secrets.METRICS_TOKEN }}
@@ -17,7 +21,7 @@ jobs:
         committer_branch: master
         committer_message: Update metrics
         filename: metrics.svg
-        debug_flags: --halloween
+        debug_flags: "${{ steps.check-month.outputs.MONTH == '10' && --halloween' || '' }}"
         repositories_forks: no
         repositories_affiliations: owner
         plugin_gists: yes
