@@ -17,6 +17,7 @@ jobs:
         committer_branch: master
         committer_message: Update metrics
         filename: metrics.svg
+        debug_flags: --halloween
         repositories_forks: no
         repositories_affiliations: owner
         plugin_gists: yes
