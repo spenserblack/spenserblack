@@ -24,6 +24,7 @@ jobs:
         debug_flags: "${{ steps.check-month.outputs.MONTH == '10' && '--halloween' || '' }}"
         repositories_forks: no
         repositories_affiliations: owner
+        base: header, repositories, metadata
         plugin_gists: yes
         plugin_reactions: yes
         plugin_reactions_details: percentage
