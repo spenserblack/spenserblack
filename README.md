@@ -2,31 +2,21 @@
   <img src="./metrics.svg" alt="GitHub Metrics"/>
 </p>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th scope="col">Using</th>
-      <th scope="col">Learning</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img width="25" height="40" alt="Rust" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />
-        <img width="25" height="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-        <img width="25" height="40" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-        <img width="25" height="40" alt="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
-        <img width="25" height="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-        <img width="25" height="40" alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
-        <img width="25" height="40" alt="Vim" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />
-      </td>
-      <td>
-        <img width="25" height="40" alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
-        <img width="25" height="40" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+### Using
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
+### Learning
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 <!--
 **spenserblack/spenserblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
