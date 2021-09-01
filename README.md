@@ -55,13 +55,3 @@ function greet                                                                 (
                                                                                }
                                                                                }
 ```
-
-[Rust]: https://devicon.dev/devicon.git/icons/rust/rust-plain.svg
-[JavaScript]: https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg
-[Node.js]: https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg
-[Vue.js]: https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg
-[Nuxt.js]: https://simpleicons.org/icons/nuxt-dot-js.svg
-[Python]: https://devicon.dev/devicon.git/icons/python/python-original.svg
-[Django]: https://devicon.dev/devicon.git/icons/django/django-original.svg
-[Go]: https://devicon.dev/devicon.git/icons/go/go-original.svg
-[Git]: https://devicon.dev/devicon.git/icons/git/git-original.svg
