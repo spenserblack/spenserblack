@@ -11,7 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check Month
-      run: echo "::set-output name=MONTH::$(date +'%m')"
+      uses: spenserblack/actions-set-output@v0.1
+      with:
+        variables: |
+          MONTH=$(date +'%m')
       id: check-month
     - run: echo "Month is '${{ steps.check-month.outputs.MONTH }}'"
     - uses: lowlighter/metrics@v3.13
