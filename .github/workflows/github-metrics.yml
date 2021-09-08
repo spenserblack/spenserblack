@@ -22,7 +22,6 @@ jobs:
         token: ${{ secrets.METRICS_TOKEN }}
         committer_token: ${{ github.token }}
         committer_branch: master
-        committer_message: Update metrics
         filename: metrics.svg
         debug_flags: "${{ steps.check-month.outputs.MONTH == '10' && '--halloween' || '' }}"
         repositories_forks: no
