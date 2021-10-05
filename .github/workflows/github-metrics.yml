@@ -10,6 +10,9 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+    - uses: zcong1993/setup-timezone@v1.1.1
+      with:
+        timezone: America/New_York
     - name: Check Month
       uses: spenserblack/actions-set-output@v0.1
       with:
@@ -19,6 +22,7 @@ jobs:
     - run: echo "Month is '${{ steps.check-month.outputs.MONTH }}'"
     - uses: lowlighter/metrics@v3.14
       with:
+        config_timezone: America/New_York
         token: ${{ secrets.METRICS_TOKEN }}
         committer_token: ${{ github.token }}
         committer_branch: metrics
