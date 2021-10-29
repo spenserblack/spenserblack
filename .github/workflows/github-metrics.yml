@@ -20,7 +20,7 @@ jobs:
           MONTH=$(date '+%m')
       id: check-month
     - run: echo "Month is '${{ steps.check-month.outputs.MONTH }}'"
-    - uses: lowlighter/metrics@v3.14
+    - uses: lowlighter/metrics@v3.15
       with:
         config_timezone: America/New_York
         token: ${{ secrets.METRICS_TOKEN }}
