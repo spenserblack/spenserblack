@@ -27,6 +27,7 @@ jobs:
         committer_token: ${{ github.token }}
         committer_branch: metrics
         filename: metrics.svg
+        plugins_errors_fatal: yes
         debug_flags: "${{ steps.check-month.outputs.MONTH == '10' && '--halloween' || '' }}"
         repositories_forks: no
         repositories_affiliations: owner
