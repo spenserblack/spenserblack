@@ -16,10 +16,7 @@ jobs:
       with:
         timezone: America/New_York
     - name: Check Month
-      uses: spenserblack/actions-set-output@v1
-      with:
-        variables: |
-          MONTH=$(date '+%m')
+      run: echo "::set-output name=MONTH::$(date '+%m')"
       id: check-month
     - run: echo "Month is '${{ steps.check-month.outputs.MONTH }}'"
     - uses: lowlighter/metrics@v3.17
