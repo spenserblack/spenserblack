@@ -29,7 +29,7 @@ jobs:
         plugins_errors_fatal: yes
         debug_flags: "${{ steps.check-month.outputs.MONTH == '10' && '--halloween' || '' }}"
         repositories_forks: no
-        repositories_affiliations: owner
+        repositories_affiliations: owner,collaborator,organization_member
         base: ""
         plugin_achievements: yes
         plugin_achievements_display: compact
