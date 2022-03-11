@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="273.38001597173485" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="273.38001597173485" y="0" width="99.2419137042325" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="372.62192967596735" y="0" width="31.186893497567937" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="403.8088231735353" y="0" width="23.193359630230137" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="427.00218280376544" y="0" width="18.34968419524236" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.35186699900777" y="0" width="5.778747912784648" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="451.1306149117924" y="0" width="4.773767635457252" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="455.90438254724967" y="0" width="4.095617452750284" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="273.3088497150997" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="273.3088497150997" y="0" width="99.21607905982906" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="372.5249287749288" y="0" width="31.17877492877493" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="403.7037037037037" y="0" width="23.187321937321936" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="426.89102564102564" y="0" width="18.464654558404558" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.3556801994302" y="0" width="5.777243589743589" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="451.1329237891738" y="0" width="4.772524928774929" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="455.90544871794873" y="0" width="4.094551282051282" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>613 kB</div>
-                                <div>59.43%</div>
+                                <div>59.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,8 +64,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>41.2 kB</div>
-                                <div>3.99%</div>
+                                <div>41.4 kB</div>
+                                <div>4.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -352,7 +352,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.60000000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.11666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -380,10 +380,10 @@
                                     <span class="prefix">Great</span>
                                     contributor
                                     <div class="value-wrapper">
-                                        <div class="value">356</div>
+                                        <div class="value">357</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 356 pull requests</div>
+                                <div class="text">Opened 357 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -483,7 +483,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5166666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.55 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -502,10 +502,10 @@
                                     <span class="prefix">Great</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">201</div>
+                                        <div class="value">203</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 201 repositories</div>
+                                <div class="text">Starred 203 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
