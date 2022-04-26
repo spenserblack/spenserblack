@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="460" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="440" class="">
     <defs>
         <style/>
     </defs>
@@ -25,10 +25,7 @@
                     <rect mask="url(#languages-bar)" x="255.68925410273553" y="0" width="93.56351885281886" height="8" fill="#00ADD8"/>
                     <rect mask="url(#languages-bar)" x="349.2527729555544" y="0" width="29.409304452212627" height="8" fill="#41b883"/>
                     <rect mask="url(#languages-bar)" x="378.662077407767" y="0" width="26.384328269846964" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="405.046405677614" y="0" width="18.517295336844196" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="423.5637010144582" y="0" width="5.437415636390796" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="429.00111665084904" y="0" width="4.4917963505737175" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="433.4929130014227" y="0" width="26.507086998577318" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="405.046405677614" y="0" width="54.953594322386024" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -59,25 +56,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Other
                             </div>
                             <small>
-                                <div>44.2 kB</div>
-                                <div>4.03%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Ruby
-                            </div>
-                            <small>
-                                <div>10.7 kB</div>
-                                <div>0.98%</div>
+                                <div>131 kB</div>
+                                <div>11.95%</div>
                             </small>
                         </div>
                     </section>
@@ -104,30 +89,6 @@
                             <small>
                                 <div>62.9 kB</div>
                                 <div>5.74%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Java
-                            </div>
-                            <small>
-                                <div>12.9 kB</div>
-                                <div>1.18%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Other
-                            </div>
-                            <small>
-                                <div>63.2 kB</div>
-                                <div>5.76%</div>
                             </small>
                         </div>
                     </section>
