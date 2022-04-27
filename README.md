@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="https://crates.io/users/spenserblack">crates.io</a> | <a href="https://www.npmjs.com/~spenserblack">npm</a>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/spenserblack/spenserblack/metrics/metrics.svg" alt="GitHub Metrics"/>
 </p>
 
