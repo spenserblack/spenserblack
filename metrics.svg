@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="252.18791842832928" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="252.18791842832928" y="0" width="95.30270005864305" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="347.4906184869723" y="0" width="29.632861405065697" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="377.123479892038" y="0" width="26.681142355799103" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="403.80462224783713" y="0" width="56.19537775216286" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.24423397736987" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="251.24423397736987" y="0" width="95.08184593297405" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="346.32607991034394" y="0" width="29.564190321322428" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="375.89027023166636" y="0" width="28.04457897734244" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="403.9348492090088" y="0" width="56.06515079099118" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,8 +37,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>597 kB</div>
-                                <div>54.82%</div>
+                                <div>596 kB</div>
+                                <div>54.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -50,7 +50,7 @@
                             </div>
                             <small>
                                 <div>70.1 kB</div>
-                                <div>6.44%</div>
+                                <div>6.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,7 +62,7 @@
                             </div>
                             <small>
                                 <div>133 kB</div>
-                                <div>12.22%</div>
+                                <div>12.19%</div>
                             </small>
                         </div>
                     </section>
@@ -76,7 +76,7 @@
                             </div>
                             <small>
                                 <div>225 kB</div>
-                                <div>20.72%</div>
+                                <div>20.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -87,8 +87,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>63.2 kB</div>
-                                <div>5.8%</div>
+                                <div>66.5 kB</div>
+                                <div>6.1%</div>
                             </small>
                         </div>
                     </section>
@@ -148,7 +148,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.551676933607112 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.594113620807676 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -272,7 +272,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.3872499999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.3949999999999998 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -295,12 +295,12 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.75k out of 305m repositories</span>
+                                    <span class="gh">ranked 5.69k out of 305m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">5179</div>
+                                        <div class="value">5180</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 5179 stars</div>
+                                <div class="text">Maintaining a repository with 5180 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -313,7 +313,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.38333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="90.41666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -341,10 +341,10 @@
                                     <span class="prefix">Great</span>
                                     contributor
                                     <div class="value-wrapper">
-                                        <div class="value">373</div>
+                                        <div class="value">375</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 373 pull requests</div>
+                                <div class="text">Opened 375 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -357,7 +357,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.75 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="39.26666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -379,10 +379,10 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">275</div>
+                                        <div class="value">276</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 275 times</div>
+                                <div class="text">Repositories have been deployed 276 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -426,7 +426,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 50.2k out of 305m repositories</span>
+                                    <span class="gh">ranked 50k out of 305m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">188</div>
                                     </div>
@@ -591,7 +591,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="37.38693467336683 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="36.608040201005025 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -619,10 +619,10 @@
                                     <span class="prefix"></span>
                                     Reviewer
                                     <div class="value-wrapper">
-                                        <div class="value">49</div>
+                                        <div class="value">48</div>
                                     </div>
                                 </div>
-                                <div class="text">Reviewed 49 pull requests</div>
+                                <div class="text">Reviewed 48 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -706,7 +706,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 373k out of 90m users</span>
+                                    <span class="gh">ranked 374k out of 90m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">23</div>
                                     </div>
