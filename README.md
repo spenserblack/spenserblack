@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://crates.io/users/spenserblack">crates.io</a> | <a href="https://www.npmjs.com/~spenserblack">npm</a>
+  <a href="https://crates.io/users/spenserblack">crates.io</a> | <a href="https://www.npmjs.com/~spenserblack">npm</a> | <a href="https://pypi.org/user/spenserblack/">PyPI</a>
 </p>
 
 <p align="center">
