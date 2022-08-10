@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.19641657861175" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="233.19641657861175" y="0" width="94.07007214026359" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="327.26648871887534" y="0" width="56.329695738201615" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="383.59618445707696" y="0" width="27.001248285979518" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="410.5974327430565" y="0" width="49.402567256943534" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.20318163329867" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="233.20318163329867" y="0" width="94.0672662358205" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="327.27044786911915" y="0" width="56.32801554661725" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="383.59846341573643" y="0" width="27.000442897817145" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="410.5989063135536" y="0" width="49.40109368644642" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                             </div>
                             <small>
                                 <div>560 kB</div>
-                                <div>50.69%</div>
+                                <div>50.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -233,7 +233,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.594113620807676 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.63655030800822 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -313,7 +313,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.3949999999999998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.55 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -335,10 +335,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">518</div>
+                                        <div class="value">520</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 518 times</div>
+                                <div class="text">Repositories have been deployed 520 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -395,7 +395,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="34.875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.2625 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -426,12 +426,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 51.6k out of 332m repositories</span>
+                                    <span class="gh">ranked 51.3k out of 332m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">190</div>
+                                        <div class="value">191</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 190 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 191 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
