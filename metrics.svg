@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.87293881309114" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="233.87293881309114" y="0" width="94.68569515359505" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="328.5586339666862" y="0" width="56.660667950112995" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="385.2193019167992" y="0" width="25.766719678580397" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="410.9860215953796" y="0" width="49.01397840462041" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.48989276229415" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="234.48989276229415" y="0" width="94.42735936109229" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="328.9172521233864" y="0" width="56.506077771154246" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="385.4233298945407" y="0" width="25.69641902822804" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="411.1197489227687" y="0" width="48.88025107723129" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,8 +37,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>558 kB</div>
-                                <div>50.84%</div>
+                                <div>561 kB</div>
+                                <div>50.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -50,7 +50,7 @@
                             </div>
                             <small>
                                 <div>135 kB</div>
-                                <div>12.32%</div>
+                                <div>12.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,7 +62,7 @@
                             </div>
                             <small>
                                 <div>117 kB</div>
-                                <div>10.66%</div>
+                                <div>10.63%</div>
                             </small>
                         </div>
                     </section>
@@ -76,7 +76,7 @@
                             </div>
                             <small>
                                 <div>226 kB</div>
-                                <div>20.58%</div>
+                                <div>20.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -88,7 +88,7 @@
                             </div>
                             <small>
                                 <div>61.5 kB</div>
-                                <div>5.6%</div>
+                                <div>5.59%</div>
                             </small>
                         </div>
                     </section>
@@ -190,7 +190,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.806297056810408 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.848733744010957 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -295,7 +295,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.51k out of 333m repositories</span>
+                                    <span class="gh">ranked 5.52k out of 333m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5591</div>
                                     </div>
@@ -313,7 +313,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.6275000000000002 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.7825 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -335,10 +335,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">521</div>
+                                        <div class="value">523</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 521 times</div>
+                                <div class="text">Repositories have been deployed 523 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
