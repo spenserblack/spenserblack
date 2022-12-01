@@ -27,8 +27,7 @@
                     <rect mask="url(#languages-bar)" x="357.16088880029673" y="0" width="19.46180296008372" height="8" fill="#41b883"/>
                     <rect mask="url(#languages-bar)" x="376.6226917603805" y="0" width="18.309529742030865" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="394.9322215024114" y="0" width="13.19306988256009" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="408.12529138497143" y="0" width="10.48660321257122" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="418.61189459754263" y="0" width="41.38810540245732" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="408.12529138497143" y="0" width="51.874708615028545" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -71,13 +70,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Other
                             </div>
                             <small>
-                                <div>20.5 kB</div>
-                                <div>2.28%</div>
+                                <div>101 kB</div>
+                                <div>11.28%</div>
                             </small>
                         </div>
                     </section>
@@ -116,18 +115,6 @@
                             <small>
                                 <div>25.9 kB</div>
                                 <div>2.87%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Other
-                            </div>
-                            <small>
-                                <div>81.2 kB</div>
-                                <div>9%</div>
                             </small>
                         </div>
                     </section>
