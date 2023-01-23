@@ -31,9 +31,6 @@ jobs:
         repositories_forks: no
         repositories_affiliations: owner,collaborator,organization_member
         base: ""
-        plugin_achievements: yes
-        plugin_achievements_display: compact
-        plugin_achievements_ignored: explorer, automater, infographile
         plugin_languages: yes
         plugin_languages_ignored: markdown
         plugin_languages_details: bytes-size, percentage
