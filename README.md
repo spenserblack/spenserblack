@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spenserblack/spenserblack/metrics/metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spenserblack&langs_count=6&layout=compact" alt="Top Langs"/>
 </p>
 
 <!--
