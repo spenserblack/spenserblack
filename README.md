@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spenserblack&langs_count=6&layout=compact&theme=transparent" alt="Top Langs"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spenserblack&langs_count=6&layout=compact&theme=transparent" alt="Top Langs"/></a>
 </p>
 
 <!--
