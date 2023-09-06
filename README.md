@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/Go-%23887788?logo=go&logoColor=white&style=flat" alt="Go">
   <img src="https://img.shields.io/badge/JavaScript-%23887788?logo=javascript&logoColor=white&style=flat" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-%23887788?logo=python&logoColor=white&style=flat" alt="Python">
+  <img src="https://img.shields.io/badge/Ruby-%23887788?logo=ruby&logoColor=white&style=flat" alt="Ruby">
   <img src="https://img.shields.io/badge/Rust-%23887788?logo=rust&logoColor=white&style=flat" alt="Rust">
   <img src="https://img.shields.io/badge/TypeScript-%23887788?logo=typescript&logoColor=white&style=flat" alt="TypeScript">
   <img src="https://img.shields.io/badge/Vue.js-%23887788?logo=vuedotjs&logoColor=white&style=flat" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Ruby-%23887788?logo=ruby&logoColor=white&style=flat" alt="Ruby">
   <br>
   <img src="https://img.shields.io/badge/Gitpod-%23887788?logo=gitpod&logoColor=white&style=flat" alt="Gitpod">
   <img src="https://img.shields.io/badge/Neovim-%23887788?logo=neovim&logoColor=white&style=flat" alt="Neovim">
