@@ -19,10 +19,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-%23887788?logo=visualstudiocode&logoColor=white&style=flat" alt="VS Code">
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spenserblack&langs_count=6&layout=compact&theme=transparent" alt="Top Langs"/></a>
-</p>
-
 <!--
 **spenserblack/spenserblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
