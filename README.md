@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <a href="https://www.credly.com/users/spenser-black"><img alt="Credly Badges" src="https://img.shields.io/badge/credly-badges-%23ff6a00?logo=credly"></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Go-%23887788?logo=go&logoColor=white&style=flat" alt="Go">
   <img src="https://img.shields.io/badge/JavaScript-%23887788?logo=javascript&logoColor=white&style=flat" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-%23887788?logo=python&logoColor=white&style=flat" alt="Python">
