@@ -15,10 +15,17 @@
   <img src="https://img.shields.io/badge/TypeScript-%23887788?logo=typescript&logoColor=white&style=flat" alt="TypeScript">
   <img src="https://img.shields.io/badge/Vue.js-%23887788?logo=vuedotjs&logoColor=white&style=flat" alt="Vue.js">
   <br>
-  <img src="https://img.shields.io/badge/Gitpod-%23887788?logo=gitpod&logoColor=white&style=flat" alt="Gitpod">
-  <img src="https://img.shields.io/badge/Neovim-%23887788?logo=neovim&logoColor=white&style=flat" alt="Neovim">
-  <img src="https://img.shields.io/badge/VS%20Code-%23887788?logo=visualstudiocode&logoColor=white&style=flat" alt="VS Code">
 </p>
+
+I typically code using:
+
+* [Neovim](https://neovim.io/)
+* [VS Code](https://code.visualstudio.com/)
+* [GitHub Codespaces](https://github.com/features/codespaces)
+* [WezTerm](https://wezfurlong.org/wezterm/index.html)
+* [Windows Terminal](https://aka.ms/terminal) (when using Windows, obviously :wink:)
+
+View [my dotfiles][dotfiles] to learn more about what tools I use and how I configure them.
 
 <!--
 **spenserblack/spenserblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,3 +43,5 @@ Here are some ideas to get you started:
 -->
 
 Start a [discussion](https://github.com/spenserblack/spenserblack/discussions) if you want to chat!
+
+[dotfiles]: https://github.com/spenserblack/dotfiles
