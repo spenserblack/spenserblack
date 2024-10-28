@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://bitbucket.org/spenserblack">Bitbucket</a> | <a href="https://gitlab.com/spenserblack">GitLab</a>
-</p>
-<p align="center">
   <a href="https://crates.io/users/spenserblack">Crates.io</a> | <a href="https://www.npmjs.com/~spenserblack">NPM</a> | <a href="https://pypi.org/user/spenserblack/">PyPI</a> | <a href="https://rubygems.org/profiles/spenserblack">RubyGems</a>
 </p>
 
