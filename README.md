@@ -17,6 +17,20 @@
   <br>
 </p>
 
+I write in:
+
+* Go
+* JavaScript / TypeScript
+* Python
+* Ruby
+* Rust
+
+I use the frameworks:
+
+* Django
+* Svelte
+* Vue.js
+
 I typically code using:
 
 * [Neovim](https://neovim.io/)
