@@ -17,27 +17,27 @@
   <br>
 </p>
 
-I write in:
+I typically use:
 
-* Go
-* JavaScript / TypeScript
-* Python
-* Ruby
-* Rust
-
-I use the frameworks:
-
-* Django
-* Svelte
-* Vue.js
-
-I typically code using:
-
-* [Neovim](https://neovim.io/)
-* [VS Code](https://code.visualstudio.com/)
-* [GitHub Codespaces](https://github.com/features/codespaces)
-* [WezTerm](https://wezfurlong.org/wezterm/index.html)
-* [Windows Terminal](https://aka.ms/terminal) (when using Windows, obviously :wink:)
+* Languages:
+  * Go
+  * JavaScript / TypeScript
+  * Python
+  * Ruby
+  * Rust
+* Frameworks
+  * Django
+  * Svelte
+  * Vue.js
+* Tools:
+  * Editors:
+    * [Neovim](https://neovim.io/)
+    * [VS Code](https://code.visualstudio.com/)
+  * Terminals:
+    * [WezTerm](https://wezfurlong.org/wezterm/index.html)
+    * [Windows Terminal](https://aka.ms/terminal) (when using Windows, obviously :wink:)
+  * [GitHub Codespaces](https://github.com/features/codespaces)
+  * [yazi](https://github.com/sxyazi/yazi)
 
 View [my dotfiles][dotfiles] to learn more about what tools I use and how I configure them.
 
