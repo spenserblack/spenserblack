@@ -25,7 +25,7 @@ I typically use:
   * Python
   * Ruby
   * Rust
-* Frameworks
+* Frameworks:
   * Django
   * Svelte
   * Vue.js
