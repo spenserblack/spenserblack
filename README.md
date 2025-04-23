@@ -31,6 +31,7 @@ I typically use:
   * Vue.js
 * Tools:
   * Editors:
+    * [Helix](https://helix-editor.com/)
     * [Neovim](https://neovim.io/)
     * [VS Code](https://code.visualstudio.com/)
   * Terminals:
