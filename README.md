@@ -16,7 +16,7 @@ Here are some of the things that I typically use:
     * [Neovim](https://neovim.io/)
     * [VS Code](https://code.visualstudio.com/)
   * Terminals:
-    * [WezTerm](https://wezfurlong.org/wezterm/index.html)
+    * [WezTerm](https://wezterm.org/)
     * [Windows Terminal](https://aka.ms/terminal) (when using Windows, obviously :wink:)
   * [GitHub Codespaces](https://github.com/features/codespaces)
   * [yazi](https://github.com/sxyazi/yazi)
