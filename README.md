@@ -20,6 +20,8 @@ Here are some of the things that I typically use:
     * [Windows Terminal](https://aka.ms/terminal) (when using Windows, obviously :wink:)
   * [GitHub Codespaces](https://github.com/features/codespaces)
   * [yazi](https://github.com/sxyazi/yazi)
+* Hardware:
+  * [Framework 16](https://frame.work/laptop16)
 
 View [my dotfiles][dotfiles] to learn more about what tools I use and how I configure them.
 
