@@ -23,8 +23,6 @@ Here are some of the things that I typically use:
 * Hardware:
   * [Framework 16](https://frame.work/laptop16)
 
-View [my dotfiles][dotfiles] to learn more about what tools I use and how I configure them.
-
-Start a [discussion](https://github.com/spenserblack/spenserblack/discussions) if you want to chat!
+Start a [discussion](https://github.com/spenserblack/spenserblack/discussions) if you want to chat about coding stuff!
 
 [dotfiles]: https://github.com/spenserblack/dotfiles
