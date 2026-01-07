@@ -14,7 +14,7 @@ Here are some of the things that I typically use:
   * Editors:
     * [Helix](https://helix-editor.com/)
     * [Neovim](https://neovim.io/)
-    * [VS Code](https://code.visualstudio.com/)
+    * VS Cod([e](https://code.visualstudio.com/)/[ium](https://vscodium.com/))
   * Terminals:
     * [WezTerm](https://wezterm.org/)
     * [Windows Terminal](https://aka.ms/terminal) (when using Windows, obviously :wink:)
