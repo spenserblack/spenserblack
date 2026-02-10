@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="96" viewBox="0 0 300 96">
+  <style type="text/css"><![CDATA[:root {
+  font-family: "Noto Sans", Helvetica, Arial, system-ui, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  --text-color: #1F2328;
+  --text-color-muted: #59636E;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #D1D7E0;
+    --text-color-muted: #9198A1;
+  }
+}
+
+text, tspan {
+  fill: var(--text-color);
+}
+tspan.muted {
+  fill: var(--text-color-muted);
+}
+
+.text-bold {
+  font-weight: 600;
+}
+]]></style>
+  <defs>
+    <mask mask-type="luminance" id="mask">
+      <rect x="0" y="0" width="300" height="8" rx="5" ry="5" fill="white"/>
+    </mask>
+  </defs>
+  <g mask="url(#mask)">
+    <rect x="0.0" y="0" width="135.48810993079738" height="8" fill="#dea584"/>
+    <rect x="135.48810993079738" y="0" width="46.10068541455459" height="8" fill="#00ADD8"/>
+    <rect x="181.58879534535197" y="0" width="32.24401639705558" height="8" fill="#3178c6"/>
+    <rect x="213.83281174240756" y="0" width="30.706627143297922" height="8" fill="#701516"/>
+    <rect x="244.53943888570547" y="0" width="11.370498523383436" height="8" fill="#41b883"/>
+    <rect x="255.9099374090889" y="0" width="7.144124388416274" height="8" fill="#f1e05a"/>
+    <rect x="263.0540617975052" y="0" width="36.94593820249482" height="8" fill="#EDEDED"/>
+  </g>
+  <circle cx="5.0" cy="21" r="5" fill="#dea584"/>
+  <text x="20.0" y="21" dominant-baseline="middle">
+    <tspan class="text-bold">Rust</tspan>
+    <tspan class="muted"> 45.2%</tspan>
+  </text>
+  <circle cx="155.0" cy="21" r="5" fill="#00ADD8"/>
+  <text x="170.0" y="21" dominant-baseline="middle">
+    <tspan class="text-bold">Go</tspan>
+    <tspan class="muted"> 15.4%</tspan>
+  </text>
+  <circle cx="5.0" cy="41" r="5" fill="#3178c6"/>
+  <text x="20.0" y="41" dominant-baseline="middle">
+    <tspan class="text-bold">TypeScript</tspan>
+    <tspan class="muted"> 10.7%</tspan>
+  </text>
+  <circle cx="155.0" cy="41" r="5" fill="#701516"/>
+  <text x="170.0" y="41" dominant-baseline="middle">
+    <tspan class="text-bold">Ruby</tspan>
+    <tspan class="muted"> 10.2%</tspan>
+  </text>
+  <circle cx="5.0" cy="61" r="5" fill="#41b883"/>
+  <text x="20.0" y="61" dominant-baseline="middle">
+    <tspan class="text-bold">Vue</tspan>
+    <tspan class="muted"> 3.8%</tspan>
+  </text>
+  <circle cx="155.0" cy="61" r="5" fill="#f1e05a"/>
+  <text x="170.0" y="61" dominant-baseline="middle">
+    <tspan class="text-bold">JavaScript</tspan>
+    <tspan class="muted"> 2.4%</tspan>
+  </text>
+  <circle cx="5.0" cy="81" r="5" fill="#EDEDED"/>
+  <text x="20.0" y="81" dominant-baseline="middle">
+    <tspan class="text-bold">Other</tspan>
+    <tspan class="muted"> 12.3%</tspan>
+  </text>
+</svg>
