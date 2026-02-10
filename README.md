@@ -23,6 +23,9 @@ Here are some of the things that I typically use:
 * Hardware:
   * [Framework 16](https://frame.work/laptop16)
 
-Start a [discussion](https://github.com/spenserblack/spenserblack/discussions) if you want to chat about coding stuff!
+![language usage](./languages.svg)
+
+*Language bar made with [github-polyglot][github-polyglot].*
 
 [dotfiles]: https://github.com/spenserblack/dotfiles
+[github-polyglot]: https://github.com/spenserblack/github-polyglot
