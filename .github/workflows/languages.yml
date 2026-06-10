@@ -12,3 +12,4 @@ jobs:
         id: github-polyglot
         with:
           format: svg
+          token: ${{ secrets.PAT }}
