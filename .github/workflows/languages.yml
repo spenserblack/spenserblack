@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - uses: spenserblack/github-polyglot/action@bugfix/action-output
+      - uses: spenserblack/github-polyglot@main
         id: github-polyglot
         with:
           format: svg
