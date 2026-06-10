@@ -1,3 +1,5 @@
+name: Languages
+
 on:
   workflow_dispatch:
 
