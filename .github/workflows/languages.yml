@@ -8,7 +8,7 @@ jobs:
     name: Languages
     runs-on: ubuntu-latest
     steps:
-      - uses: spenserblack/github-polyglot/action@main
+      - uses: spenserblack/github-polyglot/action@bugfix/action-output
         id: github-polyglot
         with:
           format: svg
