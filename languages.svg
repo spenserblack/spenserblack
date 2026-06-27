@@ -32,18 +32,18 @@ tspan.muted {
     </mask>
   </defs>
   <g mask="url(#mask)">
-    <rect x="0.0" y="0" width="135.89229573072555" height="8" fill="#dea584"/>
-    <rect x="135.89229573072555" y="0" width="51.23367667745708" height="8" fill="#00ADD8"/>
-    <rect x="187.12597240818263" y="0" width="30.969929495110417" height="8" fill="#3178c6"/>
-    <rect x="218.09590190329305" y="0" width="25.916108079250208" height="8" fill="#701516"/>
-    <rect x="244.01200998254325" y="0" width="10.930058641086047" height="8" fill="#41b883"/>
-    <rect x="254.9420686236293" y="0" width="6.578849804247241" height="8" fill="#f1e05a"/>
-    <rect x="261.52091842787655" y="0" width="38.47908157212345" height="8" fill="#EDEDED"/>
+    <rect x="0.0" y="0" width="135.70133169165936" height="8" fill="#dea584"/>
+    <rect x="135.70133169165936" y="0" width="51.16168002906778" height="8" fill="#00ADD8"/>
+    <rect x="186.86301172072714" y="0" width="30.926408684793838" height="8" fill="#3178c6"/>
+    <rect x="217.78942040552099" y="0" width="25.879689203190477" height="8" fill="#701516"/>
+    <rect x="243.66910960871147" y="0" width="10.91469906434103" height="8" fill="#41b883"/>
+    <rect x="254.5838086730525" y="0" width="6.569604808243065" height="8" fill="#f1e05a"/>
+    <rect x="261.15341348129556" y="0" width="38.846586518704456" height="8" fill="#EDEDED"/>
   </g>
   <circle cx="5.0" cy="21" r="5" fill="#dea584"/>
   <text x="20.0" y="21" dominant-baseline="middle">
     <tspan class="text-bold">Rust</tspan>
-    <tspan class="muted"> 45.3%</tspan>
+    <tspan class="muted"> 45.2%</tspan>
   </text>
   <circle cx="155.0" cy="21" r="5" fill="#00ADD8"/>
   <text x="170.0" y="21" dominant-baseline="middle">
@@ -73,6 +73,6 @@ tspan.muted {
   <circle cx="5.0" cy="81" r="5" fill="#EDEDED"/>
   <text x="20.0" y="81" dominant-baseline="middle">
     <tspan class="text-bold">Other</tspan>
-    <tspan class="muted"> 12.8%</tspan>
+    <tspan class="muted"> 12.9%</tspan>
   </text>
 </svg>
