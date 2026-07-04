@@ -32,23 +32,23 @@ tspan.muted {
     </mask>
   </defs>
   <g mask="url(#mask)">
-    <rect x="0.0" y="0" width="135.70133169165936" height="8" fill="#dea584"/>
-    <rect x="135.70133169165936" y="0" width="51.16168002906778" height="8" fill="#00ADD8"/>
-    <rect x="186.86301172072714" y="0" width="30.926408684793838" height="8" fill="#3178c6"/>
-    <rect x="217.78942040552099" y="0" width="25.879689203190477" height="8" fill="#701516"/>
-    <rect x="243.66910960871147" y="0" width="10.91469906434103" height="8" fill="#41b883"/>
-    <rect x="254.5838086730525" y="0" width="6.569604808243065" height="8" fill="#f1e05a"/>
-    <rect x="261.15341348129556" y="0" width="38.846586518704456" height="8" fill="#EDEDED"/>
+    <rect x="0.0" y="0" width="134.73745181247074" height="8" fill="#dea584"/>
+    <rect x="134.73745181247074" y="0" width="50.79828113422455" height="8" fill="#00ADD8"/>
+    <rect x="185.5357329466953" y="0" width="30.961954629547456" height="8" fill="#3178c6"/>
+    <rect x="216.49768757624275" y="0" width="25.695867044692505" height="8" fill="#701516"/>
+    <rect x="242.19355462093526" y="0" width="10.837172494156581" height="8" fill="#41b883"/>
+    <rect x="253.03072711509185" y="0" width="6.551298417931406" height="8" fill="#f1e05a"/>
+    <rect x="259.5820255330233" y="0" width="40.417974466976744" height="8" fill="#EDEDED"/>
   </g>
   <circle cx="5.0" cy="21" r="5" fill="#dea584"/>
   <text x="20.0" y="21" dominant-baseline="middle">
     <tspan class="text-bold">Rust</tspan>
-    <tspan class="muted"> 45.2%</tspan>
+    <tspan class="muted"> 44.9%</tspan>
   </text>
   <circle cx="155.0" cy="21" r="5" fill="#00ADD8"/>
   <text x="170.0" y="21" dominant-baseline="middle">
     <tspan class="text-bold">Go</tspan>
-    <tspan class="muted"> 17.1%</tspan>
+    <tspan class="muted"> 16.9%</tspan>
   </text>
   <circle cx="5.0" cy="41" r="5" fill="#3178c6"/>
   <text x="20.0" y="41" dominant-baseline="middle">
@@ -73,6 +73,6 @@ tspan.muted {
   <circle cx="5.0" cy="81" r="5" fill="#EDEDED"/>
   <text x="20.0" y="81" dominant-baseline="middle">
     <tspan class="text-bold">Other</tspan>
-    <tspan class="muted"> 12.9%</tspan>
+    <tspan class="muted"> 13.5%</tspan>
   </text>
 </svg>
