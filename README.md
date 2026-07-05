@@ -22,6 +22,8 @@ Here are some of the things that I typically use:
   * [yazi](https://github.com/sxyazi/yazi)
 * Hardware:
   * [Framework 16](https://frame.work/laptop16)
+* Domain registrars:
+  * [porkbun](https://porkbun.com/)
 
 ![language usage](./languages.svg)
 
