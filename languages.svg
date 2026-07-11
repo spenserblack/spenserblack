@@ -32,47 +32,47 @@ tspan.muted {
     </mask>
   </defs>
   <g mask="url(#mask)">
-    <rect x="0.0" y="0" width="134.73745181247074" height="8" fill="#dea584"/>
-    <rect x="134.73745181247074" y="0" width="50.79828113422455" height="8" fill="#00ADD8"/>
-    <rect x="185.5357329466953" y="0" width="30.961954629547456" height="8" fill="#3178c6"/>
-    <rect x="216.49768757624275" y="0" width="25.695867044692505" height="8" fill="#701516"/>
-    <rect x="242.19355462093526" y="0" width="10.837172494156581" height="8" fill="#41b883"/>
-    <rect x="253.03072711509185" y="0" width="6.551298417931406" height="8" fill="#f1e05a"/>
-    <rect x="259.5820255330233" y="0" width="40.417974466976744" height="8" fill="#EDEDED"/>
+    <rect x="0.0" y="0" width="132.21701759267847" height="8" fill="#dea584"/>
+    <rect x="132.21701759267847" y="0" width="54.82113594904616" height="8" fill="#00ADD8"/>
+    <rect x="187.03815354172463" y="0" width="30.382772160900352" height="8" fill="#3178c6"/>
+    <rect x="217.42092570262497" y="0" width="25.215193395788887" height="8" fill="#701516"/>
+    <rect x="242.63611909841387" y="0" width="10.63444949448103" height="8" fill="#41b883"/>
+    <rect x="253.2705685928949" y="0" width="6.42874810623628" height="8" fill="#f1e05a"/>
+    <rect x="259.6993166991312" y="0" width="40.30068330086881" height="8" fill="#EDEDED"/>
   </g>
   <circle cx="5.0" cy="21" r="5" fill="#dea584"/>
   <text x="20.0" y="21" dominant-baseline="middle">
     <tspan class="text-bold">Rust</tspan>
-    <tspan class="muted"> 44.9%</tspan>
+    <tspan class="muted"> 44.1%</tspan>
   </text>
   <circle cx="155.0" cy="21" r="5" fill="#00ADD8"/>
   <text x="170.0" y="21" dominant-baseline="middle">
     <tspan class="text-bold">Go</tspan>
-    <tspan class="muted"> 16.9%</tspan>
+    <tspan class="muted"> 18.3%</tspan>
   </text>
   <circle cx="5.0" cy="41" r="5" fill="#3178c6"/>
   <text x="20.0" y="41" dominant-baseline="middle">
     <tspan class="text-bold">TypeScript</tspan>
-    <tspan class="muted"> 10.3%</tspan>
+    <tspan class="muted"> 10.1%</tspan>
   </text>
   <circle cx="155.0" cy="41" r="5" fill="#701516"/>
   <text x="170.0" y="41" dominant-baseline="middle">
     <tspan class="text-bold">Ruby</tspan>
-    <tspan class="muted"> 8.6%</tspan>
+    <tspan class="muted"> 8.4%</tspan>
   </text>
   <circle cx="5.0" cy="61" r="5" fill="#41b883"/>
   <text x="20.0" y="61" dominant-baseline="middle">
     <tspan class="text-bold">Vue</tspan>
-    <tspan class="muted"> 3.6%</tspan>
+    <tspan class="muted"> 3.5%</tspan>
   </text>
   <circle cx="155.0" cy="61" r="5" fill="#f1e05a"/>
   <text x="170.0" y="61" dominant-baseline="middle">
     <tspan class="text-bold">JavaScript</tspan>
-    <tspan class="muted"> 2.2%</tspan>
+    <tspan class="muted"> 2.1%</tspan>
   </text>
   <circle cx="5.0" cy="81" r="5" fill="#EDEDED"/>
   <text x="20.0" y="81" dominant-baseline="middle">
     <tspan class="text-bold">Other</tspan>
-    <tspan class="muted"> 13.5%</tspan>
+    <tspan class="muted"> 13.4%</tspan>
   </text>
 </svg>
