@@ -12,7 +12,6 @@ Here are some of the things that I typically use:
   * [Vue.js](https://vuejs.org/)
 * Developer tools:
   * Editors:
-    * [Helix](https://helix-editor.com/)
     * [Neovim](https://neovim.io/)
     * VS Cod([e](https://code.visualstudio.com/)/[ium](https://vscodium.com/))
   * Terminals:
