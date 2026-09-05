@@ -32,13 +32,13 @@ tspan.muted {
     </mask>
   </defs>
   <g mask="url(#mask)">
-    <rect x="0.0" y="0" width="125.48765329128977" height="8" fill="#dea584"/>
-    <rect x="125.48765329128977" y="0" width="59.2305950067238" height="8" fill="#00ADD8"/>
-    <rect x="184.71824829801358" y="0" width="30.32962549694775" height="8" fill="#3178c6"/>
-    <rect x="215.04787379496133" y="0" width="23.936701807869863" height="8" fill="#701516"/>
-    <rect x="238.9845756028312" y="0" width="10.095248624297964" height="8" fill="#41b883"/>
-    <rect x="249.07982422712917" y="0" width="5.940919534944471" height="8" fill="#89e051"/>
-    <rect x="255.02074376207364" y="0" width="44.97925623792638" height="8" fill="#EDEDED"/>
+    <rect x="0.0" y="0" width="125.48028736776352" height="8" fill="#dea584"/>
+    <rect x="125.48028736776352" y="0" width="59.22711826601035" height="8" fill="#00ADD8"/>
+    <rect x="184.70740563377387" y="0" width="30.327845196686084" height="8" fill="#3178c6"/>
+    <rect x="215.03525083045997" y="0" width="23.935296761952095" height="8" fill="#701516"/>
+    <rect x="238.97054759241206" y="0" width="10.094656049431872" height="8" fill="#41b883"/>
+    <rect x="249.06520364184394" y="0" width="5.940570812517823" height="8" fill="#89e051"/>
+    <rect x="255.00577445436176" y="0" width="44.994225545638244" height="8" fill="#EDEDED"/>
   </g>
   <circle cx="5.0" cy="21" r="5" fill="#dea584"/>
   <text x="20.0" y="21" dominant-baseline="middle">
