@@ -32,13 +32,13 @@ tspan.muted {
     </mask>
   </defs>
   <g mask="url(#mask)">
-    <rect x="0.0" y="0" width="125.48028736776352" height="8" fill="#dea584"/>
-    <rect x="125.48028736776352" y="0" width="59.22711826601035" height="8" fill="#00ADD8"/>
-    <rect x="184.70740563377387" y="0" width="30.327845196686084" height="8" fill="#3178c6"/>
-    <rect x="215.03525083045997" y="0" width="23.935296761952095" height="8" fill="#701516"/>
-    <rect x="238.97054759241206" y="0" width="10.094656049431872" height="8" fill="#41b883"/>
-    <rect x="249.06520364184394" y="0" width="5.940570812517823" height="8" fill="#89e051"/>
-    <rect x="255.00577445436176" y="0" width="44.994225545638244" height="8" fill="#EDEDED"/>
+    <rect x="0.0" y="0" width="125.53155985229364" height="8" fill="#dea584"/>
+    <rect x="125.53155985229364" y="0" width="59.25131905139872" height="8" fill="#00ADD8"/>
+    <rect x="184.78287890369236" y="0" width="30.22411395273044" height="8" fill="#3178c6"/>
+    <rect x="215.0069928564228" y="0" width="23.945076960568905" height="8" fill="#701516"/>
+    <rect x="238.95206981699172" y="0" width="10.098780825577903" height="8" fill="#41b883"/>
+    <rect x="249.05085064256963" y="0" width="5.942998188414663" height="8" fill="#89e051"/>
+    <rect x="254.9938488309843" y="0" width="45.00615116901572" height="8" fill="#EDEDED"/>
   </g>
   <circle cx="5.0" cy="21" r="5" fill="#dea584"/>
   <text x="20.0" y="21" dominant-baseline="middle">
@@ -48,7 +48,7 @@ tspan.muted {
   <circle cx="155.0" cy="21" r="5" fill="#00ADD8"/>
   <text x="170.0" y="21" dominant-baseline="middle">
     <tspan class="text-bold">Go</tspan>
-    <tspan class="muted"> 19.7%</tspan>
+    <tspan class="muted"> 19.8%</tspan>
   </text>
   <circle cx="5.0" cy="41" r="5" fill="#3178c6"/>
   <text x="20.0" y="41" dominant-baseline="middle">
